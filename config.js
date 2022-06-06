@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ppiowy_'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
+global.sig = 'https://instagram.com/alwiiyy__'
+global.sgh = 'https://github.com/z4bux'
+global.sgc = 'https://chat.whatsapp.com/BGSa9GAjPGo3T7LPTPldIx'
+global.sdc = '✓'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.pdana = '8565337357'
+global.povo = '×'
+global.pgopay = '8565337357'
+global.ppulsa = '8565337357'
+global.ppulsa2 = '85751337466'
+global.psaweria = 'https://saweria.com/miawz4bux'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.nomorbot = '6281227938091'
+global.nomorown = '28565337357'
+global.namebot = 'Miaw BOT'
+global.nameown = 'awyy__ - Z4bux'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
+  ['628565337357'],
+  ['6283131473734'],
   ['18126338970'],
-  ['62831433937633', 'LETTA ! 🐰', true]
+  ['62831433937633', 'Miaw ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -101,7 +101,7 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'APIKEY',
   'https://anabotofc.herokuapp.com/': 'APIKEY',
-  'https://api.lolhuman.xyz': 'APIKEY',
+  'https://api.lolhuman.xyz': 'Atakbotz',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -116,13 +116,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm = '                「 Miaw BOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Miaw - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Miaw 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 Ƙαnnα BOT あ⁩ 」'
+global.author = '                「 Miaw BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -176,7 +176,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\nM\ni\na\nw\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
